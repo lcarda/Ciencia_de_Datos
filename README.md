@@ -4,7 +4,7 @@ Este repositorio contiene ejercicios resueltos de la materia **Ciencia de Datos*
 Astronomia, Física y Computación de la Universidad Nacional de Córdoba. 
 
 Tenemos tres carpetas una con los enunciados y otra con sus respectivas notebooks. En la tercera se encuentra el proyecto final de la materia. 
-El proyecto consistio en utilizar anuncios clasificados de venta de inmuebles en Argentina extraídos Properati que se encontraron en [Kaggle](https://www.kaggle.com/datasets/tomasaccini/propiedadesproperati), abarcando el periodo de 2013 a 2017. El objetivo principal fue desarrollar un modelo predictivo para estimar el precio de venta de propiedades basándose en sus características, destacando la importancia de la tasación en el ámbito inmobiliario. Enfocandose en el valor en dólares y la falta de análisis específicos en Sudamérica, especialmente en Argentina. 
+El cual consistio en utilizar anuncios clasificados de venta de inmuebles en Argentina extraídos Properati que se encontraron en [Kaggle](https://www.kaggle.com/datasets/tomasaccini/propiedadesproperati), abarcando el periodo de 2013 a 2017. El objetivo principal fue desarrollar un modelo predictivo para estimar el precio de venta de propiedades basándose en sus características, destacando la importancia de la tasación en el ámbito inmobiliario. Enfocandose en el valor en dólares y la falta de análisis específicos en Sudamérica, especialmente en Argentina. 
 <pre>
 ├── Guias/              
 │   ├── CD_guia01.pdf 
