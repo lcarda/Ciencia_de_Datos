@@ -1,4 +1,4 @@
-# Ciencia_de_Datos
+# Ciencia de Datos
 
 Este repositorio contiene ejercicios resueltos de la materia **Ciencia de Datos** de la Facultad de Matemática, 
 Astronomia, Física y Computación de la Universidad Nacional de Córdoba. 
